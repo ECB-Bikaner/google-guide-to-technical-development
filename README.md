@@ -18,15 +18,15 @@ This guide is intended for Computer Science students seeking an internship or un
 - The guide lists topics and resources in a rough progression, from possible places to begin if you have little or no technical skills, to resources for those with increasing skills, to ways to gain exposure in the Computer Sciences field.
 - You can use any of the resources you want, in any order.
 
-### Recommendations and Resources
+# Recommendations and Resources
 
- **Take an “Introduction to CS” course** Focus on basic coding instructions.
+### **Take an “Introduction to CS” course** Focus on basic coding instructions.
 
 Online resources:
 
 - [Introduction to Computer Science,](https://www.udacity.com/course/cs101) Udacity
 
- **Learn to code in (at least) one object-oriented programming language (C++, Java®, Python®)** Online resources for beginning programmers:
+### **Learn to code in (at least) one object-oriented programming language (C++, Java®, Python®)** Online resources for beginning programmers:
 
 - [Java Programming: An Introduction to Software,](https://www.coursera.org/specializations/java-programming) Duke University, Coursera
 - [Learn to Program: The Fundamentals,](https://www.coursera.org/learn/learn-to-program) University of Toronto, Coursera
@@ -41,7 +41,7 @@ Online resources for more experienced programmers:
 - [Learn to Program: Crafting Quality Code,](https://www.coursera.org/learn/program-code) University of Toronto, Coursera
 - [Introduction to Programming Languages,](https://cs.brown.edu/courses/cs173/2012/OnLine/) Brown University
 
- **Learn other programming languages** Add to your repertoire:
+### **Learn other programming languages** Add to your repertoire:
 
 - JavaScript®
 - CSS & HTML
@@ -64,14 +64,14 @@ Online resources:
 - [Software Testing,](https://www.udacity.com/course/software-testing--cs258) Udacity
 - [Software Debugging,](https://www.udacity.com/course/software-debugging--cs259) Udacity
 
- **Develop logical reasoning and knowledge of discrete math** Online resources:
+### **Develop logical reasoning and knowledge of discrete math** Online resources:
 
 - [Mathematics for Computer Science,](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm) MIT
 - [Introduction to Mathematical Thinking,](https://www.coursera.org/learn/mathematical-thinking) Stanford, Coursera
 - [Probabilistic Graphical Models,](https://www.coursera.org/course/pgm) Stanford, Coursera
 - [Game Theory,](https://www.coursera.org/course/gametheory) Stanford and University of British Columbia, Coursera
 
- **Develop a strong understanding of algorithms and data structures** Learn about fundamental data types (stack, queues, and bags), sorting algorithms (quicksort, mergesort, heapsort), data structures (binary search trees, red-black trees, hash tables), and Big O.
+### **Develop a strong understanding of algorithms and data structures** Learn about fundamental data types (stack, queues, and bags), sorting algorithms (quicksort, mergesort, heapsort), data structures (binary search trees, red-black trees, hash tables), and Big O.
 
 Online resources:
 
@@ -81,70 +81,64 @@ Online resources:
 - [List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) Wikipedia
 - Book: [The Algorithm Design Manual,](https://www.goodreads.com/book/show/425208.The_Algorithm_Design_Manual) Steven S. Skiena
 
- **Develop a strong knowledge of operating systems** Online resources:
+### **Develop a strong knowledge of operating systems** Online resources:
 
 [Computer Science 162,](https://www.youtube.com/watch?v=XgQo4JkN4Bw&list=PL3289DD0D0F0CD4A3) UC Berkeley, YouTube
 
- **Learn artificial intelligence and machine learning** Online resources:
+### **Learn artificial intelligence and machine learning** Online resources:
 
-- [Machine Learning Engineer 
-
-nanodegree,](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) Udacity
+- [Machine Learning Engineer nanodegree,](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) Udacity
 - [Deep Learning,](https://www.udacity.com/course/deep-learning--ud730) Udacity
 - [Introduction to Robotics,](https://see.stanford.edu/Course/CS223A) Stanford University
 - [Machine Learning,](https://see.stanford.edu/Course/CS229) Stanford University
 
- **Learn Android development** Online resources:
+### **Learn Android development** Online resources:
 
 - [Google Developer Training for Android,](https://developers.google.com/training/android/) on Udacity
 
- **Learn web development** Online resources:
+### **Learn web development** Online resources:
 
-- [Google Developer Training for 
+- [Google Developer Training for Web,](https://developers.google.com/training/web/) on Udacity
 
-Web,](https://developers.google.com/training/web/) on Udacity
-
- **Learn other developer skills** Online resources:
+### **Learn other developer skills** Online resources:
 
 - [Google Developer Training site](https://developers.google.com/training/)
 
- **Learn cryptography** Online resources:
+### **Learn cryptography** Online resources:
 
 - [Cryptography,](https://www.coursera.org/course/crypto) Stanford, Coursera
 - [Applied Cryptography,](https://www.udacity.com/course/applied-cryptography--cs387) Udacity
 
- **Work on projects outside of the classroom** Create and maintain a website, build your own server, or build a robot.
+### **Work on projects outside of the classroom** Create and maintain a website, build your own server, or build a robot.
 
 Online resources:
 
-- Capstone project: [Analyzing (Social) Network Data - scroll down to bottom of 
-
-page,](https://www.coursera.org/specializations/java-object-oriented)
+- Capstone project: [Analyzing (Social) Network Data - scroll down to bottom of page,](https://www.coursera.org/specializations/java-object-oriented)
 
 UCSD, Coursera
 - Capstone project: [Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines,](https://www.coursera.org/learn/java-programming-recommender) Duke University, Coursera
 - [Project Directory,](https://projects.apache.org/) Apache
 - [Google Summer of Code Project Archive](https://www.google-melange.com/gsoc/homepage/google/gsoc2013)
 
- **Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug** GitHub is a great way to read other people’s code or contribute to a project.
+### **Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug** GitHub is a great way to read other people’s code or contribute to a project.
 
 Online resources:
 
 - [GitHub®](https://github.com/)
 - [Kiln™](https://www.fogcreek.com/kiln/)
 
- **Work on projects with other programmers** This will help you improve your ability to work well in a team and enable you to learn from others.
+### **Work on projects with other programmers** This will help you improve your ability to work well in a team and enable you to learn from others.
 
- **Practice your algorithmic knowledge and coding skills** Practice your algorithmic knowledge through coding competitions like CodeJam or ACM’s International Collegiate Programming Contest.
+### **Practice your algorithmic knowledge and coding skills** Practice your algorithmic knowledge through coding competitions like CodeJam or ACM’s International Collegiate Programming Contest.
 
 Online resources:
 
 - [CodeJam](https://code.google.com/codejam/)
 - [ACM ICPC](https://icpc.baylor.edu/)
 
- **Become a teaching assistant** Helping to teach other students will help enhance your knowledge of the subject matter.
+### **Become a teaching assistant** Helping to teach other students will help enhance your knowledge of the subject matter.
 
- **Gain internship experience in software engineering** [Find Google’s internships in Engineering and Technology on our Students site.](https://www.google.com/about/careers/students/engineering-and-technical-internships/)
+### **Gain internship experience in software engineering** [Find Google’s internships in Engineering and Technology on our Students site.](https://www.google.com/about/careers/students/engineering-and-technical-internships/)
 
 Online resource to prepare to interview for software engineering positions, including for internships:
 
