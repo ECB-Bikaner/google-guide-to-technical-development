@@ -6,7 +6,7 @@ This guide is intended for Computer Science students seeking an internship or un
 
 ### What this guide is for
 
-- You can use this guide to determine which courses to take, but be sure stay on track with your courses required for your major to graduate.
+- You can use this guide to determine which courses to take, but be sure to stay on track with your courses required for your major to graduate.
 - We encourage you to learn more outside of this guide. The more you know, the better!
 - The online resources we’ve cited aren’t meant to replace courses available at your university, but they may help supplement your education or provide an introduction to a topic.
 - The information and recommendations in this guide were gathered through our work with students and candidates in the field. It is a work-in-progress, a living document, so be sure to periodically check back for updates.
@@ -57,7 +57,7 @@ Online resources:
 
 - [Codecademy](https://www.codecademy.com/learn)
 
- **Test your code** Learn how to catch bugs, create tests, and break your software.
+  **Test your code** Learn how to catch bugs, create tests, and break your software.
 
 Online resources:
 
@@ -116,6 +116,7 @@ Online resources:
 - Capstone project: [Analyzing (Social) Network Data - scroll down to bottom of page,](https://www.coursera.org/specializations/java-object-oriented)
 
 UCSD, Coursera
+
 - Capstone project: [Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines,](https://www.coursera.org/learn/java-programming-recommender) Duke University, Coursera
 - [Project Directory,](https://projects.apache.org/) Apache
 - [Google Summer of Code Project Archive](https://www.google-melange.com/gsoc/homepage/google/gsoc2013)
